@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Dawn Maltman
+# DATE: February 23, 2026
+# BRIEF DESCRIPTION:  Converting grades with if elif statements
 
 
 
@@ -84,7 +84,7 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
-
+I would say be careful when deciding to use range or mathematical signs in your if elif statements.
 
 
 
